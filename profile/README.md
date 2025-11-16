@@ -23,7 +23,7 @@ We build SDKs, APIs, and AI Models that help companies stop account takeovers, p
 
 ## 📚 Documentation
 
-Everything you need: SDK setup, API references, tutorials, examples.
+For everything you need: SDK setup, API references, tutorials, examples. Check out the [Documentation](https://developers.keverd.com).
 
 ---
 
