@@ -1,6 +1,6 @@
 # keverdAI
 
-[Keverd](https://www.keverd.com) provides a Real-time fraud detection infrastructure for fintechs, banks, wallets, and high-velocity platforms.
+[Keverd](https://www.keverd.com) provides a Real-time fraud detection infrastructure for fintechs, banks, wallets, and high-velocity transaction platforms.
 We build SDKs, APIs, and AI Models that help companies stop account takeovers, payment fraud, and platform abuse.
 
 ---
@@ -23,7 +23,7 @@ We build SDKs, APIs, and AI Models that help companies stop account takeovers, p
 
 ## 📚 Documentation
 
-For everything you need: SDK setup, API references, tutorials, examples. Check out the [Documentation](https://developers.keverd.com).
+For everything you need: SDK setup, API references, tutorials and examples. Check out the [Documentation](https://developers.keverd.com).
 
 ---
 
